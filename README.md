@@ -1,6 +1,6 @@
 # Monitor de APIs - Gestão de Riscos e Comunicação
 
-Link do repositório: [LINK AQUI]
+Link do repositório: https://github.com/MatheusBenvindo/projeto-riscos-api
 
 ## 1. Cenário do Projeto
 Este projeto consiste em um script Python para consumo e monitoramento de dados de uma API HTTP externa. O objetivo principal do script é realizar requisições periódicas a um endpoint específico, validar o status da resposta e salvar os dados localmente para análise posterior.
