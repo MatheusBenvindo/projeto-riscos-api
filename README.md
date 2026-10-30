@@ -1,3 +1,12 @@
+<!-- course-navigation:start -->
+<p>
+  <a href="https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md#engenharia-e-akcit"><img alt="Índice de materiais" src="https://img.shields.io/badge/MATERIAIS-Engenharia%20e%20AKCIT-005DAA?style=flat-square" /></a>
+</p>
+
+[← Catálogo de cursos e projetos](https://github.com/MatheusBenvindo/MatheusBenvindo/blob/main/CURSOS.md) · [Perfil](https://github.com/MatheusBenvindo)
+
+<!-- course-navigation:end -->
+
 # Monitor de APIs - Gestão de Riscos e Comunicação
 
 Link do repositório: https://github.com/MatheusBenvindo/projeto-riscos-api
@@ -20,3 +29,11 @@ A IA foi utilizada para mapear cenários de falha puramente técnicos de infraes
 
 ## 5. Limitações e Cuidados com a IA
 Durante o processo, a IA sugeriu repetidamente metodologias formais e pesadas de gestão de riscos (como matrizes de risco probabilísticas completas e documentações extensas). Essa abordagem representaria superdimensionamento de engenharia (*overengineering*) para um script simples e de baixo impacto como este monitor. Foi necessário filtrar as sugestões para extrair apenas os tratamentos técnicos aplicáveis diretamente ao código.
+
+
+## Navegação dos materiais
+
+| Pasta ou arquivo | Acesso |
+|---|---|
+| monitor.py | [Abrir arquivo](./monitor.py) |
+
